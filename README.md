@@ -1,2 +1,2 @@
-# master
+# DesignPattern
 DesignPattern
